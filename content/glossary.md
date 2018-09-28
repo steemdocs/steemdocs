@@ -1,4 +1,4 @@
-- [STEEM](/glossary/STEEM.md)
+- [STEEM](/content/glossary/STEEM.md)
 
 ---
 
