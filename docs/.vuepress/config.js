@@ -25,6 +25,10 @@ module.exports = {
       },
       nav: [
         {
+          text: 'About',
+          link: '/about/'
+        },
+        {
           text: 'Glossary',
           link: '/glossary/'
         }
