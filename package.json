@@ -1,0 +1,27 @@
+{
+  "name": "sdn",
+  "private": true,
+  "version": "0.0.0",
+  "description": "The Steem Documentation Network Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kareniel/steem-docs.git"
+  },
+  "keywords": [
+    "steem"
+  ],
+  "author": "kareniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kareniel/steem-docs/issues"
+  },
+  "homepage": "https://github.com/kareniel/steem-docs#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.2"
+  }
+}
