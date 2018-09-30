@@ -1,4 +1,4 @@
- # VESTS
+# VESTS
 
 The [Steem blockchain](/docs/glossary/steem-blockchain.md) has two units of account - [STEEM](/docs/glossary/steem.md) and **VESTS**. 
 
