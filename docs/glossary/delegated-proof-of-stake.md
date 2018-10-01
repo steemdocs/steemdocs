@@ -9,6 +9,4 @@
 - Faster confirmation time
 - Energy efficient
 
-## Further Readings...
-
-[What is Delegated Proof of Stake Consensus? (DPoS) Complete Beginner’s Guide](https://blockonomi.com/delegated-proof-of-stake/)
+**Learn more:** [What is Delegated Proof of Stake Consensus? (DPoS) Complete Beginner’s Guide](https://blockonomi.com/delegated-proof-of-stake/)
