@@ -8,7 +8,7 @@ Users who commit their STEEM to a thirteen-week vesting schedule, are provided s
 
 ## Privileges
  
-When users [vote](/docs/glossary/voting.md) on content, their influence over the distribution of the rewards pool is directly proportional to the amount of **VESTS** that they have in their accounts. Users with more **VESTS** have more:
+When users [vote](/docs/glossary/voting.md) on content, their influence over the distribution of the [rewards pool](/docs/glossary/reward-pool) is proportional to the amount of **VESTS** that they have in their accounts. Users with more **VESTS** have more:
 
 - Influence over the [reward pool](/docs/glossary/reward-pool.md) 
 - Influence over the rankings of [witnesses](/docs/glossary/witness.md) 

@@ -15,4 +15,4 @@ SMTs can also be leveraged for [Initial Coin Offerings](/docs/glossary/initial-c
 - January 15, 2019 - **SMT** development complete and live on the TestNet.
 - March 24, 2019 - **SMT** fully released and live on the Steem Blockchain.
 
-More Information: [Smart Media Tokens Whitepaper](https://smt.steem.io/smt-whitepaper.pdf)
+**Learn more**: [Smart Media Tokens Whitepaper](https://smt.steem.io/smt-whitepaper.pdf)
