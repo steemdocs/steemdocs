@@ -11,6 +11,10 @@ The fundamental unit of account on the Steem platform is [STEEM](/docs/glossary/
 
 Token rewards are distributed by the amount of [VESTS](/docs/glossary/vests.md) backing the votes on a given article. How much is distributed is dictated by the token's [reward curve](/docs/glossary/reward-curve.md), [reward pool](/docs/glossary/reward-pool.md) and how many people are competing for it as well as each users [MANA](/docs/glossary/mana.md). 
 
+## Upvotes & Downvotes
+
+When content is published by [authors](/docs/glossary/author.md) it is then available for applications to be display on their website. Users ([curators](/docs/glossary/curator.md) in this context) can upvote or downvote(also known as flagging) depending on whether they appreciate the content or find it abusive (spam, plagia, etc.)
+
 **Learn more**: 
 - [Steem whitepaper](https://steem.io/steem-whitepaper.pdf)
 
