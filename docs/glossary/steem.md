@@ -2,7 +2,7 @@
 
 ## Description
 
-STEEM is the native token and unit of account of the [Steem blockchain](/content/glossary/steem-blockchain.md). STEEM can be bought on exchanges or earned through [Proof-Of-Brain](/content/glossary/proof-of-brain.md) by generating value on the network.  
+STEEM is the native token and unit of account of the [Steem blockchain](/glossary/steem-blockchain.md). STEEM can be bought on exchanges or earned through [Proof-Of-Brain](/glossary/proof-of-brain.md) by generating value on the network.  
 
 ## Token Creation
 
@@ -12,13 +12,13 @@ The rate that new tokens are generated was set to 9.5% per year starting in Dece
 
 ## Token Function
 
-STEEM can serve multiple function depending on how it is used in the system. It can be transfered easily between users. If the token is vested into [Steem Power](/content/glossary/steem-power.md), it will give the holder:
+STEEM can serve multiple function depending on how it is used in the system. It can be transfered easily between users. If the token is vested into [Steem Power](/glossary/steem-power.md), it will give the holder:
 
-- More bandwidth through [resource credits (RC)](/content/glossary/resource-credits.md)
-- Influence over the ranking of  [witnesses](/docs/glossary/witness.md)
-- Influence over the [reward pool](/docs/glossary/reward-pool.md).
+- More bandwidth through [resource credits (RC)](/glossary/resource-credits.md)
+- Influence over the ranking of  [witnesses](/glossary/witness.md)
+- Influence over the [reward pool](/glossary/reward-pool.md).
 
-STEEM can also be exchanged for [Steem-Backed Dollars](/content/glossary/steem-backed-dollars.md) which  a is financial instrument that hold the value of at least 1 USD. 
+STEEM can also be exchanged for [Steem-Backed Dollars](/glossary/steem-backed-dollars.md) which  a is financial instrument that hold the value of at least 1 USD. 
 
 **Learn more**:
 [1. Steem Bluepaper](https://steem.io/steem-bluepaper.pdf)
