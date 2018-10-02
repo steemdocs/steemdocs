@@ -6,7 +6,7 @@
 
 For each user on [Steem](/glossary/steem-blockchain.md), there are 4 types of keys , each with their own **public** and [private](/glossary/private-key.md) counterparts:
 
-- [Posting Keys]/glossary/posting-key.md)
+- [Posting Keys](/glossary/posting-key.md)
 - [Active Keys](/glossary/active-key.md)
 - [Owner Keys](/glossary/owner-key.md)
 - [Memo Keys](/glossary/memo-key.md)
