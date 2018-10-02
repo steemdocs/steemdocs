@@ -3,7 +3,7 @@
 A Steem **witness** is a person or a group who runs a server on the Steem Network. **Witnesses** are core to the [Delegated Proof-of-Stake](/glossary/delegated-proof-of-stake.md) consensus protocol.
 
 The main job of a **witness** is to:
-- Validate blocks of transactions
+- Validate [blocks](/glossary/block.md) of transactions
 - Store the data of the [blockchain](/glossary/blockchain.md)
 - Review proposed softfork/hardfork and come to a consensus
 - Publish a price feed

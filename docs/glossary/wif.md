@@ -15,4 +15,4 @@ Everytime a user [post](/glossary/posting.md),[vote](/glossary/voting.me) or [tr
 
 ## Changing a WIF
 
-When a user's change their [owner's key](/glossary/owner-key.md), all of their users keys (**public** and private) are changed.
+When a user's change their [owner's key](/glossary/owner-key.md), all of their users keys (*public* and *private*) are changed.
