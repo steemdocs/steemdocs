@@ -1,4 +1,4 @@
-# STEEM (Token)
+# STEEM (token)
 
 ## Description
 
