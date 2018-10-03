@@ -11,7 +11,7 @@ Steem, contrary to most blockchains, is application specific. It focuses on bein
 - **Block Validators**: 21 [witnesses](/glossary/witness.md)
 - **Block Confirmation Time**: 3 Seconds
 - **Language**: C++, Javascript, Python, Ruby
-- **Token Distribution**: 75% by [Proof-Of-Brain](/glossary/proof-of-brain.md), 10% to Witnesses, 15% to [vested token holders](/glossary/vests.md)] 
+- **Token Distribution**: 75% by [Proof-Of-Brain](/glossary/proof-of-brain.md), 10% to Witnesses, 15% to [vested token holders](/glossary/vests.md) 
 - **Transaction Fees**: Zero by using [Resource Credits](/glossary/resource-credits.md) bandwidth model
 - **Currency Symbol**: [STEEM](/glossary/steem.md)
 - **Economic Model**: 10% APR [inflation](/glossary/inflation.md) narrowing to 1% APR over 20 years.
