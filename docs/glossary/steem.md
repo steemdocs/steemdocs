@@ -19,5 +19,5 @@ STEEM can serve multiple function depending on how it is used in the system. It 
 STEEM can also be exchanged for [Steem-Backed Dollars](/glossary/steem-backed-dollars.md) which  a is financial instrument that hold the value of at least 1 USD. 
 
 **Learn more**:
-[1. Steem Bluepaper](https://steem.io/steem-bluepaper.pdf)
-[2. Steem Whitepaper](https://steem.io/SteemWhitePaper.pdf)
+1. [Steem Bluepaper](https://steem.io/steem-bluepaper.pdf)
+2. [Steem Whitepaper](https://steem.io/SteemWhitePaper.pdf)
