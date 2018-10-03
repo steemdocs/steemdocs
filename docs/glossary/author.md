@@ -1,6 +1,6 @@
 # Author
 
-An **author**, on the [Steem blockchain](/glossary/steem-blockchain.md), is a user that submit content to the network. The content will then be available for developers to display on their applications. From there [curators](/glossary/curator.md) can [upvote](/glossary/voting.md) or [downvote](/glossary/voting.md) the content.
+An **author**, on the [Steem blockchain](/glossary/steem-blockchain.md), is a user [account](/glossary/account.md) that [post](/glossary/posting.md) content on the network. The content will then be available for developers to display on their applications. From there [curators](/glossary/curator.md) can [upvote](/glossary/voting.md) or [downvote](/glossary/voting.md) the content.
 
 ## Author's Reward
 
