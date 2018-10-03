@@ -2,7 +2,7 @@
 
 **Private Keys** (also known as [WIF](/glossary/wif.md) are the cryptographically encoded version of a user's "password" used to perform actions on the [Steem blockchain](/glossary/steem-blockchain.md).
 
-For each user on [Steem](/glossary/steem-blockchain.md), there are 4 types of keys , each with their own [public](/glossary/public-key.md) and **private** counterparts:
+For each user [account](/glossary/account.md) on Steem, there are 4 types of keys , each with their own [public](/glossary/public-key.md) and **private** counterparts:
 
 - [Posting Keys](/glossary/posting-key.md)
 - [Active Keys](/glossary/active-key.md)
