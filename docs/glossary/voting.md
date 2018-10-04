@@ -5,7 +5,7 @@ Core to the [Steem blockchain](/glossary/steem-blockchain.md) logic is the actio
 - Vote for [witnesses](/glossary/witness.md) to be [block](/glossary/block.md) validators
 - Vote for content
 
-The fundamental unit of account on the Steem platform is [STEEM](/glossary/steem.md), a cryptocurrency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by the amount of [vested tokens](/glossary/steem-power.md) in their account, have the most influence over how contributions are scored and which witness becomes approved by the community (the top 21 witnesses).
+The fundamental unit of account on the Steem platform is [STEEM](/glossary/steem.md), a cryptocurrency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by the amount of [vested tokens](/glossary/steem-power.md) in their account, have the most influence over how contributions are scored and which witnesses becomes approved by the community (the top 21 witnesses).
 
 ## Voting Token Rewards
 
@@ -13,14 +13,13 @@ Token rewards are distributed by the amount of [VESTS](/glossary/vests.md) backi
 
 ## Upvotes & Downvotes
 
-When content is published by [authors](/glossary/author.md) it is then available for applications to be display on their website. Users ([curators](/glossary/curator.md) in this context) can upvote or downvote(also known as flagging) depending on whether they appreciate the content or find it abusive (spam, plagia, etc.)
+When content is published by [authors](/glossary/author.md) it is then available for applications to be display on their website. Users ([curators](/glossary/curator.md) in this context) can upvote or downvote(also known as flagging) depending on whether they appreciate the content or find it abusive (spam, plagiarized content, etc.)
 
 ## Voting Authority
 
 This type of [transaction](/glossary/transaction.md) requires the user to enter their [private](/glossary/private-key.md) [posting key](/glossary/active-key.md) in order to be broadcasted.
 
-**Learn more**: 
-- [Steem whitepaper](https://steem.io/steem-whitepaper.pdf)
+**Learn more**: [Steem whitepaper](https://steem.com/steem-whitepaper.pdf)
 
 
 
