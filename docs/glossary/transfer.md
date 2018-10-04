@@ -1,0 +1,3 @@
+# Transfer
+
+A transfer on the [blockchain](/glossary/blockchain.md) is a specific type of [transaction](/glossary/transaction.md) that allows for an [account](/glossary/account.md) to send funds (along with a [memo](/glossary/memo.md)) to another account. This type of transaction requires the user to enter their [private](/glossary/private-key.md) [active key](/glossary/active-key.md) in order to be accepted by the network.
