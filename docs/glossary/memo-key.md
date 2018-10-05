@@ -1,5 +1,5 @@
 ---
-title: Memo Key - Glossary Definition - SDN
+title: Memo Key
 description: The memo key is used for encrypted memos attached to a transfer of funds from one account to another. Memos can be encrypted by the memo private keys.
 ---
 # Memo Key

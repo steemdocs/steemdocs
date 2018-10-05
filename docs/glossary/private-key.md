@@ -1,5 +1,5 @@
 ---
-title: Private Key - Steem Blockchain Glossary - SDN
+title: Private Key
 description: Private Keys are the cryptographically encoded version of a user's "password" used to perform actions on the Steem blockchain. Each account has 4 sets of public and private keys.
 ---
 # Private Key

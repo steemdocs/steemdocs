@@ -1,5 +1,5 @@
 ---
-title: Hardfork - Steem Blockchain Glossary - SDN
+title: Hardfork
 description: A hardfork, as it relates to blockchain technology, is a radical change to the protocol that makes previously invalid blocks/transactions valid. 
 ---
 # Hardfork

@@ -1,5 +1,5 @@
 ---
-title: Posting Key - Glossary Definition - SDN
+title: Posting Key
 description: The posting key is used for posting and voting on the Steem blockchain.  Everytime a user post and vote through their account, he/she is signing each transaction with their posting keys.
 ---
 # Posting Key

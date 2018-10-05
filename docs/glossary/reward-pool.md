@@ -1,5 +1,5 @@
 ---
-title: Reward Pool - Steem Blockchain Glossary - SDN
+title: Reward Pool
 description: A reward pool is a pool of tokens dedicated to incentivizing content creation and curation. Of the supply of new STEEM tokens created by the Steem blockchain every year, 75% of those tokens compose the “rewards pool” which are distributed to content creators and content curators via the Proof-Of-Brain.
 ---
 # Reward Pool

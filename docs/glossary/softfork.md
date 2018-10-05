@@ -1,5 +1,5 @@
 ---
-title: Softfork - Steem Blockchain Glossary - SDN
+title: Softfork
 description: A softfork, as it relates to blockchain technology, is a backward compatible method of upgrading a blockchain. Since old nodes will recognize the new blocks as valid, a softfork is backward-compatible. 
 ---
 # Softfork

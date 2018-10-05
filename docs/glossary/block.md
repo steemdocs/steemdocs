@@ -1,5 +1,5 @@
 ---
-title: Block - Steem Blockchain Glossary - SDN
+title: Block
 description: On a blockchain, transaction data is permanently recorded in files called blocks. Each block contains, among other things, a record of some or all recent transactions, and a reference to the block that came immediately before it.
 ---
 # Block

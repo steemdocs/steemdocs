@@ -1,5 +1,5 @@
 ---
-title: Posting - Steem Blockchain Glossary - SDN
+title: Posting
 description: Core to the Steem blockchain logic is the action of posting. Posts are created by authors and then submitted to the Steem blockchain via one of the many front-end application available on the network.
 ---
 # Posting

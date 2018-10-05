@@ -1,5 +1,5 @@
 ---
-title: Public Key - Steem Blockchain Glossary - SDN
+title: Public Key
 description: Public Keys are the encrypted and publicly available version of private keys. Each account has 4 sets of public and private keys, namely posting keys, active keys, owner's keys and memo keys.
 ---
 # Public Key

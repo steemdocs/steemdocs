@@ -1,5 +1,5 @@
 ---
-title: Steem Power - Steem Blockchain Glossary - SDN
+title: Steem Power
 description: User accounts who commit their STEEM to a thirteen-week vesting schedule, are provided special benefits within the platform. STEEM that has been committed to a thirteen-week vesting schedule is called Steem Power.
 ---
 # Steem Power

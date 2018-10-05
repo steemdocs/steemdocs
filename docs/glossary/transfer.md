@@ -1,5 +1,5 @@
 ---
-title: Transfer - Steem Blockchain Glossary - SDN
+title: Transfer
 description: A transfer on the blockchain is a specific type of transaction that allows for an account to send funds (along with a memo) to another account. On the Steem Blockchain, these transaction are free and almost instantaneous provided that the user has enough Resource Credits (bandwidth).
 ---
 # Transfer

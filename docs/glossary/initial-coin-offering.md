@@ -1,5 +1,5 @@
 ---
-title: Initial Coin Offering - Steem Blockchain Glossary - SDN
+title: Initial Coin Offering
 description: An Initial Coin Offering (ICO) is the cryptocurrency space's rough equivalent to an IPO in the mainstream investment world. Then, interested investors buy in to the offering, either with fiat currency or with preexisting digital tokens like STEEM.
 ---
 # Initial Coin Offering (ICO)

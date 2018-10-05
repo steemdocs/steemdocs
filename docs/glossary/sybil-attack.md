@@ -1,5 +1,5 @@
 ---
-title: Sybil Attack - Steem Blockchain Glossary - SDN
+title: Sybil Attack
 description: A Sybil attack, in the context of the Steem blockchain is when an attacker creates a large number of account, using them to gain a disproportionately large influence over the reward pool and by default the ranking of content.
 ---
 # Sybil Attack

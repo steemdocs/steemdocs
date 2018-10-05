@@ -1,5 +1,5 @@
 ---
-title: Owner Key - Steem Blockchain Glossary - SDN
+title: Owner Key
 description: The owner key is the most important key of a user account. When a user enter his/her owner's key into an application, it unlocks all the capabilities of the account including the ability to change all the keys by changing the owner's key itself.
 ---
 # Owner's Key

@@ -1,5 +1,5 @@
 ---
-title: Power Down - Steem Blockchain Glossary - SDN
+title: Power Down
 description: On the Steem blockchain, vesting STEEM into Steem Power is referred to as “powering up”, while divesting from Steem Power to STEEM is referred to as "powering down".
 ---
 # Power Down

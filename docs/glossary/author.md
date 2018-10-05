@@ -1,5 +1,5 @@
 ---
-title: Author - Steem Blockchain Glossary - SDN
+title: Author
 description: An author, on the Steem blockchain, is a user account that post content on the network. Once it is submitted, it is available for developers to use for their applications, for curators to upvote or downvote and other users to comment on.
 ---
 # Author

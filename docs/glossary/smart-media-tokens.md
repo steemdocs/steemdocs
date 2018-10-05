@@ -1,5 +1,5 @@
 ---
-title: Smart Media Tokens - Steem Blockchain Glossary - SDN
+title: Smart Media Tokens
 description: Smart Media Tokens(SMT) is a protocol that allows people to create their own tokens on the Steem blockchain. These Smart Media Tokens leverage all of the functionalities of the Proof-Of-Brain distribution mechanism while allowing for specifications.
 ---
 # Smart Media Tokens

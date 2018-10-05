@@ -1,5 +1,5 @@
 ---
-title: Curation Trail - Steem Blockchain Glossary - SDN
+title: Curation Trail
 description: A curation trail is a group of accounts deciding to upvote, immediately or after a set time, what a specific account has voted on. This is sometimes used to promote a particular topic of interest.
 ---
 # Curation Trail

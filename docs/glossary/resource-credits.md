@@ -1,5 +1,5 @@
 ---
-title: Resource Credits - Steem Blockchain Glossary - SDN
+title: Resource Credits
 description: The RC Plugin defines blockchain resources and limits medium and long-term use through stake-based Resource Credits. The amount of RC an account has is defined based on the amount of VESTS an account as.
 ---
 # Resource Credits (RC)

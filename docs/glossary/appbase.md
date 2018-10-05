@@ -1,5 +1,5 @@
 ---
-title: AppBase - Steem Blockchain Glossary - SDN
+title: AppBase
 description: AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. It was released as a softfork](/glossary/softfork.md within HF19.
 ---
 # AppBase
