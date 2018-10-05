@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://steemdocs.netlify.com/* http://steemdocs.net/:splat 301!
