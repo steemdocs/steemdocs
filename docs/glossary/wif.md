@@ -1,3 +1,7 @@
+---
+title: WIF - Steem Blockchain Glossary - SDN
+description: Wallet Import Format (WIF, also known as Wallet Export Format) is a way of encoding a private ECDSA key so as to make it easier to copy. When users are demanded their WIF on the Steem blockchain, it refers to one of their private keys.
+---
 # WIF
 
 **W**allet **I**mport **F**ormat (**WIF**, also known as Wallet Export Format) is a way of encoding a private ECDSA key so as to make it easier to copy. When users are demanded their WIF on the [Steem blockchain](/glossary/steem-blockchain.md), it refers to one of their private keys. For each user on Steem, there are 4 types of keys, each with their own [public](/glossary/public-key.md) and [private](/glossary/private-key.md) counterparts:

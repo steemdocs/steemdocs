@@ -1,3 +1,7 @@
+---
+title: Steem Power - Steem Blockchain Glossary - SDN
+description: User accounts who commit their STEEM to a thirteen-week vesting schedule, are provided special benefits within the platform. STEEM that has been committed to a thirteen-week vesting schedule is called Steem Power.
+---
 # Steem Power
 
 [User accounts](/glossary/account.md) who commit their [STEEM](/glossary/steem.md) to a thirteen-week vesting schedule, are provided special benefits within the platform. STEEM that has been committed to a thirteen-week vesting schedule is called **Steem Power (SP)**.  When users [vote](/glossary/voting.md) on content, their influence over the distribution of the [rewards pool](/glossary/reward-pool.md) is proportional to the amount of **Steem Power** that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform namely:

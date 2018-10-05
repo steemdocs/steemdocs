@@ -1,3 +1,7 @@
+---
+title: Private Key - Steem Blockchain Glossary - SDN
+description: Private Keys are the cryptographically encoded version of a user's "password" used to perform actions on the Steem blockchain. Each account has 4 sets of public and private keys.
+---
 # Private Key
 
 **Private Keys** (also known as [WIF](/glossary/wif.md) are the cryptographically encoded version of a user's "password" used to perform actions on the [Steem blockchain](/glossary/steem-blockchain.md). Each account has 4 sets of [public](/glossary/public-key.md) and **private keys**:

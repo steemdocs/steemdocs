@@ -1,3 +1,7 @@
+---
+title: Active Key - Steem Blockchain Glossary - SDN
+description: Active keys are used to make transfers and place orders on the internal market of the Steem blockchain.  Everytime a user does a transfer, he/she is signing each transaction with their active private key.
+---
 # Active Keys
 
 **Active keys** are used to make [transfers](/glossary/transfer.md) and place orders on the [internal market](/glossary/internal-market) of the [Steem blockchain](/glossary/steem-blockchain.md).  Everytime a user does a transfer, he/she is signing each [transaction](/glossary/transaction.md) with their **active [private key](/glossary/private-key.md)**. Then, the system validates the transactions by using the **active [public key](/glossary/public-key.md)**. Authenticated transactions are added to the [blockchain](/glossary/blockchain.md), while non-authenticated ones are rejected.

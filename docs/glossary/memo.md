@@ -1,3 +1,7 @@
+---
+title: Memo - Steem Blockchain Glossary - SDN
+description: A memo is generally a short sentence written down to help your memory or to leave a message to a person in same office/organization. In the context of the Steem blockchain, a memo can be attached to a transfer of funds from one account to another.
+---
 # Memo
 
 A **Memo** is generally a short sentence written down to help your memory or to leave a message to a person in same office/organization. In the context of the [Steem blockchain](/glossary/steem-blokchain.md), a **memo** can be attached to a [transfer](/glossary/transfer.md) of funds from one [account](/glossary/account.md) to another.
