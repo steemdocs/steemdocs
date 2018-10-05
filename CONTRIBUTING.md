@@ -1,14 +1,14 @@
-# Contributing to the Steem Documentation Newtork
+# Contributing to the Steem Documentation Network
 
 :+1::tada: First off, thanks for taking the time to contribute! :+1::tada:
 
-The following is a set of guidelines for contributing to **Steem Documentation Network**, which are hosted on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to **Steem Documentation Network**, which is hosted on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 Please read these instructions before submitting issues to the **SND** GitHub repository. The issue tracker is for bugs and specific implementation discussion **only**. It should not be used for other purposes, as described below.
 
 ## Looking For Something To Do?
 
-We have a [Trello board](https://trello.com/b/ykV4TGZ3/steem-documentation-network) with all the tasks that we are looking to accomplish or build. Make sure to read through the instruction in the "Meta" box before creating card and task. Do not create a card that you don't intend on working on yourself.
+We have a [Trello board](https://trello.com/b/ykV4TGZ3/steem-documentation-network) with all the tasks that we are looking to accomplish or build. Make sure to read through the instruction in the "Meta" box before getting started with your task. Do not create a card that you don't intend on working on yourself.
 
 ## Bug Reports
 
@@ -20,7 +20,7 @@ The developers frequently open issues to discuss changes that are being worked o
 
 Issues opened that devolve into lengthy discussion of minor site features will be closed or locked.  The issue tracker is not a general purpose discussion forum.
 
-This is not the place to make suggestions for product improvement. If you are not planning to work on the change yourself - do not open an issue for it.
+This is not the place to make suggestions for product improvement. **If you are not planning to work on the change yourself - do not open an issue for it.**
 
 ## Duplicate Issues
 
