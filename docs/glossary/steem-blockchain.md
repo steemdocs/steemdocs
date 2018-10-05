@@ -1,5 +1,5 @@
 ---
-title: Steem Blockchain - Steem Blockchain Glossary - SDN
+title: Steem Blockchain
 description: Steem is an open-source, public, blockchain protocol powered by the native cryptocurrency STEEM. The protocol is designed to operate as a decentralized content management platform with 3-second confirmation and fee-less transactions.
 ---
 # Steem Blockchain

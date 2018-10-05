@@ -1,5 +1,5 @@
 ---
-title: Beneficiary Reward - Steem Blockchain Glossary - SDN
+title: Beneficiary Reward
 description: Introduced in HF18, beneficiary rewards are a list of account(s) that will receive a pre-defined share of the author's rewards at the moment of payout.
 ---
 # Beneficiary Reward

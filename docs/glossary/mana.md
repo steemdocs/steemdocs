@@ -1,5 +1,5 @@
 ---
-title: Mana - Steem Blockchain Glossary - SDN
+title: Mana
 description: Each user account is allotted a fixed amount of voting power which is called mana. Mana is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given post or comment.
 ---
 # Mana

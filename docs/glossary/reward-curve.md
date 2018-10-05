@@ -1,5 +1,5 @@
 ---
-title: Reward Curve - Steem Blockchain Glossary - SDN
+title: Reward Curve
 description: In the context of the Steem blockchain, reverse auction is how curators compete for the curation rewards on any given post created by authors.
 ---
 # Reward Curve

@@ -1,5 +1,5 @@
 ---
-title: RockDB - Steem Blockchain Glossary - SDN
+title: RockDB
 description: RockDBis a fast-on-disk data store with an advanced caching layer, which could further minimize latency when reading/writing to and from the disk as it is optimized for fast, low-latency storage. 
 ---
 # RockDB

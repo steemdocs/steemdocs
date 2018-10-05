@@ -1,5 +1,5 @@
 ---
-title: Saving Account - Steem Blockchain Glossary - SDN
+title: Saving Account
 description: A Saving Account on the Steem Blockchain is a way for a user to secure their tokens through a time-lock mechanism. The Steem blockchain allows users to store their tokens in a savings account, so that the funds may not be withdrawn until after a three day waiting period.
 ---
 # Saving Account

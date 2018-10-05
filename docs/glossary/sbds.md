@@ -1,5 +1,5 @@
 ---
-title: Account - Steem Blockchain Glossary - SDN
+title: Account
 description: Steem Blockchain Data Service (SBDS in short) is a tool for easily querying the data of the Steem Blockchain. It can also be used as a lower level API upon which other applications can be built.
 ---
 # SBDS

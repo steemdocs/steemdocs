@@ -1,5 +1,5 @@
 ---
-title: Account - Steem Blockchain Glossary - SDN
+title: Account
 description: On the Steem blockchain, each user has at least one account that can be used to interact with the blockchain. Each account has an address that is human readable (aka @username) as well as many other attributes.
 ---
 # Account

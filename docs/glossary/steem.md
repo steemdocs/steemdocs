@@ -1,5 +1,5 @@
 ---
-title: STEEM (token) - Steem Blockchain Glossary - SDN
+title: STEEM (token)
 description: STEEM is the native token and unit of account of the Steem blockchain. STEEM can be bought on exchanges, earned through Proof-Of-Brain by generating value on the network, earned by becoming a witness or by receiving an interest rate on vested STEEM tokens.  
 ---
 # STEEM Token

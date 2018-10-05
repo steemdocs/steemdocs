@@ -1,5 +1,5 @@
 ---
-title: Internal Market - Steem Blockchain Glossary - SDN
+title: Internal Market
 description: The Steem blockchain offers an internal market that works as decentralized exchange. The internal market allows users to trade their STEEM, SBD and SMTs through a public decentralized peer-to-peer market.
 ---
 # Internal Market

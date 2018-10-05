@@ -1,5 +1,5 @@
 ---
-title: Proof-Of-Brain - Steem Blockchain Glossary - SDN
+title: Proof-Of-Brain
 description: First introduced in the original Steem whitepaper as subjective proof-of-work, Proof-Of-Brain is the process by which accounts earn tokens by using their brain.
 ---
 # Proof-Of-Brain

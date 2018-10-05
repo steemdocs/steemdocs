@@ -1,5 +1,5 @@
 ---
-title: Delegated Proof-Of-Stake - Steem Blockchain Glossary - SDN
+title: Delegated Proof-Of-Stake
 description: Delegated Proof-Of-Stake (DPOS in short) is the concensus protocol of the Steem blockchain. Vested token holders elect 21 Witnesses to validate transactions and act as a form of digital democracy.
 ---
 # Delegated Proof-Of-Stake

@@ -1,5 +1,5 @@
 ---
-title: VESTS - Steem Blockchain Glossary - SDN
+title: VESTS
 description: The Steem blockchain has two units of account - STEEM and VESTS.  Users who commit their STEEM to a thirteen-week vesting schedule, are provided special benefits within the platform. When STEEM is "powered up", it is converted to VESTS.
 ---
 # VESTS

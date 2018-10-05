@@ -1,5 +1,5 @@
 ---
-title: TestNet - Steem Blockchain Glossary - SDN
+title: TestNet
 description: A testnet is an alternative Steem blockchain, to be used for testing. A testnet is often used to prepare for an eventual hardfork.
 ---
 # TestNet

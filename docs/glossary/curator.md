@@ -1,5 +1,5 @@
 ---
-title: Curator - Steem Blockchain Glossary - SDN
+title: Curator
 description: A curator, on the Steem blockchain, is a user that votes on the content posted by authors on the network. For more information about curators and curation, visit the Steem Documentation Network. 
 ---
 # Curator

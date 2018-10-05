@@ -1,5 +1,5 @@
 ---
-title: Steem-Backed Dollars (SBD) - Steem Blockchain Glossary - SDN
+title: Steem-Backed Dollars (SBD)
 description: Steem-Backed Dollars are denoted by the symbol SBD. The role of SBD is to provide to the Steem blockchain a financial instrument that has a stable value of at least $1 USD.
 ---
 # Steem-Backed Dollars (SBD)

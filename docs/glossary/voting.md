@@ -1,5 +1,5 @@
 ---
-title: Voting - Steem Blockchain Glossary - SDN
+title: Voting
 description: Core to the Steem blockchain logic is the act of voting. There are 2 types of votes on the network...learn more about voting and the Steem Blockchain by visiting SND.
 ---
 # Voting
