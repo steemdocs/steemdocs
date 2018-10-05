@@ -1,10 +1,8 @@
 ---
-
+title: Steem Documentation Network
+description: The Steem Documentation Network (SDN) is the un-official development documentation website for all projects related to the Steem Blockchain.
 ---
-
-
-
-# Welcome to the Steem Documentation Network!
+# Welcome to the Steem Documentation Network
 
 The Steem Documentation Network (SDN) is the un-official development documentation website for all projects related to the Steem Blockchain. SDN is completely open-source and powered by [Utopian](https://utopian.io), which gives you an opportunity to earn rewards when your pull request is merged. 
 
