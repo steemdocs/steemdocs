@@ -1,4 +1,8 @@
-## AppBase
+---
+title: AppBase - Steem Blockchain Glossary - SDN
+description: AppBase enables many components of the Steem blockchain to become modular by creating additional non-consensus blockchains as dedicated plugins. It was released as a softfork](/glossary/softfork.md within HF19.
+---
+# AppBase
 
 **AppBase** enables many components of the [Steem blockchain](/glossary/steem-blockchain.md) to become modular by creating additional non-consensus blockchains as dedicated plugins. It was released as a [softfork](/glossary/softfork.md) within [HF19](https://github.com/steemit/steem/releases/tag/v0.19.10). These plugins can be updated much more rapidly because they do not require replaying the entire [blockchain](/glossary/blockchain.md). Practically speaking, **AppBase** enables different cores, or even different computers, to maintain different parts of the Steem blockchain.
 

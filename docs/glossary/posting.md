@@ -1,3 +1,7 @@
+---
+title: Posting - Steem Blockchain Glossary - SDN
+description: Core to the Steem blockchain logic is the action of posting. Posts are created by authors and then submitted to the Steem blockchain via one of the many front-end application available on the network.
+---
 # Posting
 Core to the [Steem blockchain](/glossary/steem-blockchain.md) logic is the action of **posting**. Posts are created by [authors](/glossary/account.md) and then submitted to the [Steem blockchain](/glossary/steem-blockchain.md) via one of the many front-end application available on the network. From there, the content is available for developers to display on their application as well as for [curators](/glossary/curator.md) to [upvote](/glossary/voting.md) or [downvote](/glossary/voting.md) the content.
 

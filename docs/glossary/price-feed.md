@@ -1,3 +1,7 @@
+---
+title: Price Feed - Steem Blockchain Glossary - SDN
+description: The function of the price feed is to allow SBD/STEEM forced conversion which maintains the Steem-Backed Dollar peg to at least 1 USD. On the Steem Blockchain, it is maintained by the witnesses.
+---
 # Price Feed
 
 The function of the **price feed** is to allow [SBD](/glossary/steem-backed-dollars.md)/[STEEM](/glossary/steem.md) forced conversion which maintains the Steem-Backed Dollar peg to at least 1 USD.

@@ -1,3 +1,7 @@
+---
+title: Witness - Steem Blockchain Glossary - SDN
+description: A Steem witness is a person or a group who runs a server on the Steem Blockchain. Witnesses are core to the Delegated Proof-of-Stake consensus protocol. The main job of a witness is to validate blocks, store data, review proposed forks and publish a price feed.
+---
 # Witness
 
 A Steem **witness** is a person or a group who runs a server on the [Steem Network]((/glossary/steem-blockchain.md)). **Witnesses** are core to the [Delegated Proof-of-Stake](/glossary/delegated-proof-of-stake.md) consensus protocol. The main job of a **witness** is to:

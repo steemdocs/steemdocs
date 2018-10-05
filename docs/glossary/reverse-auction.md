@@ -1,3 +1,7 @@
+---
+title: Reverse Auction - Steem Blockchain Glossary - SDN
+description: In the context of the Steem blockchain, reverse auction is how curators compete for the curation rewards on any given post created by authors.
+---
 # Reverse Auction
 
 A reverse auction is a type of auction in which the roles of buyer and seller are reversed. In an ordinary auction (also known as a 'forward auction'), buyers compete to obtain goods or services by offering increasingly higher prices. In the context of the [Steem blockchain](/glossary/steem-blockchain.md), **reverse auction** is how [curators](/glossary/curator.md) compete for the curation rewards on any given post created by [authors](/glossary/author.md).
