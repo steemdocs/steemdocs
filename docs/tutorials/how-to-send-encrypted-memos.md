@@ -90,4 +90,3 @@ Now convert the memo data into a vector and then convert it to base58:
 string result = '#' + to_base58( pack( memodata ) );
 ~~~~
 The to and from keys should be fetched as the memo_key property on the respective [accounts](/glossary/account.md).
-
