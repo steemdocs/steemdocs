@@ -9,4 +9,3 @@ description: A blockchain is a digitized, decentralized, public ledger of all cr
 The [Steem blockchain](/glossary/steem-blockchain.md) is a unique type of blockchain that uses [Delegated Proof-Of-Stake](/glossary/delegated-proof-of-stake.md). It is specifically designed to operate as a decentralized content management platform with 3-second confirmation and fee-less transactions. 
 
 **Learn more**: [What is the Steem Blockchain?](/glossary/steem-blockchain.md)
-

@@ -21,7 +21,3 @@ It is important to note that [posts](/glossary/posting.md) or applications that 
 If [STEEM](/glossary/steem.md) is viewed as ownership in the whole supply of tokens, then a token-convertible dollar can be viewed as debt since it is a promised to return $1 worth of STEEM at a later debt. A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high by stopping to the printing of **Steem-Backed Dollars** when the debt level exceeds 10%.
 
 **Learn more**: [Steem Whitepaper](https://steem.io/steem-whitepaper.pdf)
-
-
-
-

@@ -24,7 +24,3 @@ When content is published by [authors](/glossary/author.md) it is then available
 This type of [transaction](/glossary/transaction.md) requires the user to enter their [private](/glossary/private-key.md) [posting key](/glossary/active-key.md) in order to be broadcasted.
 
 **Learn more**: [Steem whitepaper](https://steem.com/steem-whitepaper.pdf)
-
-
-
-

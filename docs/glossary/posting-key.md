@@ -11,4 +11,3 @@ The **posting key** is used for [posting](/glossary/posting.md) and [voting](/gl
 A user can find their public **posting key** by going to https://steemd.com/@your_username under the "Authority" widget. Alternatively, he/she can find their private and public **posting key** by going to https://steemit.com/@your_username/permissions. 
 
 Finally, a user can change their public and private **posting key** by changing the password of their [owner's key](/glossary/owner-key.md)
-

@@ -12,4 +12,3 @@ Each **account** has 4 sets of [public](/glossary/public-key.md) and [private](/
 - [Active Keys](/glossary/active-key.md) - for [tranfers of funds](/glossary/transfer.md)  
 - [Owner Keys](/glossary/owner-key.md) - for full access and changing all private/public keys 
 - [Memo Keys](/glossary/memo-key.md) - for encrypted [memos](/glossary/memo.md)
-

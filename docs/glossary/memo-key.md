@@ -11,4 +11,3 @@ The **memo key** is used for encrypted [memos](/glossary/memo.md) attached to a 
 A user can find their public **memo** key by going to https://steemd.com/@your_username under the "Authority" widget. Alternatively, he/she can find their [private](/glossary/private-key.md) and [public](/glossary/public-key.md) **memo key** by going to https://steemit.com/@your_username/permissions. 
 
 Finally, a user can change their public and private **memo key** by changing the password of their [owner's key](/glossary/owner-key.md)
-
