@@ -22,7 +22,7 @@ The result of the operation was to transfer the full [VESTING](/glossary/vests.m
 
 **Roles:** active owner
 **Parameters:** reporter first_block second_block
-**Note:** Back then, Proof-Of-Work was still an option to validate [blocks](/glossary/block.md) but it is no longer supported.
+**Note:** Proof-Of-Work was completely disabled in [HF17](/releases(/hardfork-0-17-0.md)
 
 ## Context of HF4
 
