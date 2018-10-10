@@ -25,5 +25,3 @@ Steem, contrary to most blockchains, is application specific. It focuses on bein
 - [Steem Whitepaper](https://steem.io/steem-whitepaper.pdf)
 - [Steem Bluepaper](https://steem.io/steem-bluepaper.pdf)
 - [SMT Whitepaper](https://smt.steem.io/smt-whitepaper.pdf)
-
-

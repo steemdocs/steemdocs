@@ -12,5 +12,3 @@ The STEEM token **reward pool** is splitted  as follow:
 - 75% to [authors](/glossary/author.md)
 
 **NOTE:** Each [Smart Media Tokens](/glossary/smart-media-tokens.md) has it's own **reward pool** with it's defined [reward curve](/glossary/reward-curve.md) independent of the Steem reward pool. 
-
-

@@ -18,4 +18,3 @@ The more a given curator has accumulated [VESTS](/glossary/vests.md) (also calle
 ## Curation Rules - Reverse Auction
 
 The curation "game" works as a [reverse auction](/glossary/reverse-auction.md). If a vote comes immediately after a post is made, then 99.94% of it will be sent back to the reward pool, after 7.5 minutes 50% and after 15 minutes 0%. **Curators** must figure out when is best to vote depending on how much a given article has a chance of becoming popular.
-
