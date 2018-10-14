@@ -1,11 +1,14 @@
 # `claim_account`
 
-Create a subsidized account by spending resource credits.
+Claim a subsidized account by spending resource credits.
+Increments the caller's `pending_claimed_accounts` by one.
+
+Accounts claimed using this operation can be created using the [`create_claimed_account`](/platform/operations/create_claimed_account.md) operation.
 
 ## Arguments
 
-- `fee`: [Asset Quantity](/platform/primitives/asset-quantity)
-- `creator`: [Account Name](/platform/primitives/account-name)
+- `fee`: [Asset Quantity](/platform/primitives/asset-quantity.md)
+- `creator`: [Account Name](/platform/primitives/account-name.md)
 
 ```json
 {

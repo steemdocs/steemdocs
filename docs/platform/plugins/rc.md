@@ -9,7 +9,7 @@ plugins:
 
 ## Subsidized Account Creation
 
-A subsidized account can be created by paying a fee of 0 STEEM with the [`claim_account`](/platform/operations/claim_account). 
+A subsidized account can be claimed by paying a fee of 0 STEEM with the [`claim_account`](/platform/operations/claim_account.md). 
 
 There are consensus and non-consensus limits on subsidized account creation.
 
@@ -28,9 +28,9 @@ The non-consensus limit exists in the RC Plugin and charges account creators RCs
 
 ## Operations
 
-- [`find_rc_accounts`](/platform/operations/find_rc_accounts)
-- [`get_resource_params`](/platform/operations/get_resource_params)
-- [`get_resource_pool`](/platform/operations/get_resource_pool)
+- [`find_rc_accounts`](/platform/operations/find_rc_accounts.md)
+- [`get_resource_params`](/platform/operations/get_resource_params.md)
+- [`get_resource_pool`](/platform/operations/get_resource_pool.md)
 
 
 ## References
