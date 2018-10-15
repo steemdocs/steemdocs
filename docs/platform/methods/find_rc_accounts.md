@@ -1,10 +1,19 @@
----
-published: true
----
-
 # `find_rc_accounts`
 
+## Parameters
 
+- accounts: Array of [account_name_type](/platform/primitives/types/account_name.md).
+
+```json
+[
+  "find_rc_accounts", 
+  { 
+    "accounts": [ 
+      "steemdocs" 
+    ] 
+  }
+]
+```
 
 ## Example Response
 

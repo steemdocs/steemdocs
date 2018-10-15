@@ -1,35 +1,17 @@
----
-published: true
----
 
-# `create_claimed_account`
+# `create_claimed_account_operation`
 
-When an account has a non-zero balance of [`pending_claimed_accounts`](/platform/operations/properties/pending_claimed_accounts.md), they can call `create_claimed_account` to create a new account. This will decrement the caller’s `pending_claimed_accounts` balance by one and create the new account.
+When an account has a non-zero balance of [`pending_claimed_accounts`](/platform/properties/pending_claimed_accounts.md), they can broadcast this operation to create a new account. This will decrement the caller’s [`pending_claimed_accounts`](/platform/properties/pending_claimed_accounts.md) balance by one and create the new account.
 
-## Arguments
+## Parameters
 
-- `creator`: [Account Name](/platform/primitives/account-name.md) of the creator.
-- `new_account_name`: [Account Name](/platform/primitives/account-name.md) of the new account.
-- `active`: Authority Object
-- `owner`: Authority Object
-- `posting`: Authority Object
-- `memo_key`: Public Key String
+- `creator`: [account_name_type](/platform/primitives/types/account_name.md) of the creator.
+- `new_account_name`: [account_name_type](/platform/primitives/types/account_name.md) of the new account.
+- `active`: [authority](/platform/primitives/structs/authority.md)
+- `owner`: [authority](/platform/primitives/structs/authority.md)
+- `posting`: [authority](/platform/primitives/structs/authority.md)
+- `memo_key`: [public_key](/platform/primitives/types/public_key.md)
 - `json_metadata`: Stringified JSON metadata. Can simply be an empty string.
-
-Example of an Authority Object: 
-
-```json
-{
-    "weight_threshold": 1,
-    "account_auths": [],
-    "key_auths": [
-      [
-        "STM...",
-        1
-      ]
-    ]
-  }
-```
 
 ## Example Response
 

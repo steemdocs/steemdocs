@@ -21,10 +21,11 @@ ul {
 
 <script>
 const subdirectories = [
-  'operations',
-  'plugins',
-  'primitives',
-  'properties'
+  'Properties',
+  'Primitives',
+  'Methods',
+  'Operations',
+  'Plugins'
 ]
 
 export default {
@@ -35,15 +36,16 @@ export default {
     sections () {
       return subdirectories.map(dir => ({
         dir: dir,
-        pages: this.pages.filter(this.inDirectory(dir))
+        pages: this.pages.filter(this.inDirectory(dir.toLowerCase()))
       }))
     }
   },
   methods: {
     inDirectory: function (dir) {
       return page => (
+        page.path.indexOf('.html') > -1 &&
         page.path.indexOf(dir) > -1 &&
-        page.frontmatter.published
+        !page.frontmatter.draft
       )
     }
   }
