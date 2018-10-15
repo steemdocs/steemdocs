@@ -20,5 +20,4 @@ This was in the very early days Steem were there were only a few people who coul
 
 ## Softfork 0.4.1 Information
 **Date:** May 3, 2016 (four days after [HF4](/releases/hardfork-0-4-0.md))
-**Commits since this release:** 3821 commits
 **Official Github Release**: [0.4.1 Release](https://github.com/steemit/steem/releases/tag/v0.4.1)

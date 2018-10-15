@@ -20,5 +20,4 @@ This was in the very early days Steem were there were only a few people who coul
 
 ## Softfork 0.4.2 Information
 **Date:** May 10, 2016 
-**Commits since this release:** 3796 commits
 **Official Github Release**: [0.4.2 Release](https://github.com/steemit/steem/releases/tag/v0.4.2)

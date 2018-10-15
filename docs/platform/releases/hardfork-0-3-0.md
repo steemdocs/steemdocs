@@ -16,5 +16,4 @@ This was in the very early days Steem were there were only a few people who coul
 
 ## Hardfork 0.3.0 Information
 **Date:** Apr 26, 2016 (one day after [HF2](/releases/hardfork-0-2-0.md))
-**Commits since this release:** 3865 commits
 **Official Github Release**: [0.3.0 Release](https://github.com/steemit/steem/releases/tag/v0.3.0)
