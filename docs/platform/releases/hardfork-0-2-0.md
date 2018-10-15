@@ -1,5 +1,4 @@
 ---
-published: true
 title: Steem Hardfork 0.2.0 Release (HF2)
 description: General documentation and information regarding HF2 of the Steem Blockchain.
 ---

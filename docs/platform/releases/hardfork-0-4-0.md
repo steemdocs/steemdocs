@@ -1,5 +1,4 @@
 ---
-published: true
 title: Steem Hardfork 0.4.0 Release (HF4)
 description: General documentation and information regarding HF4 of the Steem Blockchain.
 ---

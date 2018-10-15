@@ -1,5 +1,4 @@
 ---
-published: true
 title: Steem Softfork 0.4.1 Release
 description: General documentation and information the 0.4.2 release.
 ---
