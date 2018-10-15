@@ -23,5 +23,4 @@ This was in the very early days of the [Steem blockchain](/glossary/steem-blockc
 
 ## Hardfork 0.2.0 Information
 **Date:** Apr 25, 2016
-**Commits since this release:** 3880 commits
 **Official Github Release**: [0.2.0 Release](https://github.com/steemit/steem/releases/tag/v0.2.0)
