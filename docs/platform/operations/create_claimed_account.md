@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 # `create_claimed_account`
 
 When an account has a non-zero balance of [`pending_claimed_accounts`](/platform/operations/properties/pending_claimed_accounts.md), they can call `create_claimed_account` to create a new account. This will decrement the caller’s `pending_claimed_accounts` balance by one and create the new account.

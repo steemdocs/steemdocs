@@ -1,4 +1,5 @@
 ---
+published: true
 title: Steem Hardfork 0.3.0 Release (HF3)
 description: General documentation and information regarding HF3 of the Steem Blockchain.
 ---

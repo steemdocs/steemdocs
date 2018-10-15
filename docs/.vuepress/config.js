@@ -13,6 +13,7 @@ module.exports = {
     palette: path.resolve(__dirname, 'palette.styl'),
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Platform', link: '/platform/' },
       { text: 'Glossary', link: '/glossary/' }
     ],
     editLinks: true,

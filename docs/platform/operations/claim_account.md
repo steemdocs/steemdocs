@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 # `claim_account`
 
 Claim a subsidized account by spending resource credits.

@@ -1,4 +1,5 @@
 ---
+published: true
 plugins:
   plugin_code_url: https://github.com/steemit/steem/tree/master/libraries/plugins/rc
   api_code_url: https://github.com/steemit/steem/tree/master/libraries/plugins/apis/rc_api
@@ -29,8 +30,8 @@ The non-consensus limit exists in the RC Plugin and charges account creators RCs
 ## Operations
 
 - [`find_rc_accounts`](/platform/operations/find_rc_accounts.md)
-- [`get_resource_params`](/platform/operations/get_resource_params.md)
-- [`get_resource_pool`](/platform/operations/get_resource_pool.md)
+- `get_resource_params`
+- `get_resource_pool`
 
 
 ## References

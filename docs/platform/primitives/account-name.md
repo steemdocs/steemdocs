@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 # Account Name
 
 A string between 3 and 16 characters that identifies an account.

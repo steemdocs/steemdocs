@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 # `account_creation_fee`
 
 Set by the witnesses. 
