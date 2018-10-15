@@ -1,6 +1,6 @@
 ---
 title: Active Key
-description: Active keys are used to make transfers and place orders on the internal market of the Steem blockchain.  Everytime a user does a transfer, he/she is signing each transaction with their active private key.
+description: Active keys are used to make transfers and place orders on the internal market of the Steem blockchain. Everytime a user does a transfer, he/she is signing each transaction with their active private key.
 ---
 # Active Keys
 

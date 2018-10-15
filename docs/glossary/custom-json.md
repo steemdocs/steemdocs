@@ -1,6 +1,6 @@
 ---
 title: Custom JSON Operation
-description: On the Steem blockchain, custom JSON are used to store and organize content, implement features such as "follows","resteem", and other features that do not require changes in currency validation logic.
+description: 'On the Steem blockchain, custom JSON are used to store and organize content, implement features such as follows, resteem, and other features that do not require changes in currency validation logic.'
 ---
 # Custom JSON Operation
 

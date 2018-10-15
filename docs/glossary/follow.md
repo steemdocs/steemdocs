@@ -1,6 +1,6 @@
 ---
 title: Follow
-description: Like many operations on the blockchain, "follow" is a Custom JSON operation. It allows developers to create a list of users whose content will be displayed on an account's feed.
+description: Like many operations on the blockchain, follow is a Custom JSON operation. It allows developers to create a list of users whose content will be displayed on an account's feed.
 ---
 # Follow
 

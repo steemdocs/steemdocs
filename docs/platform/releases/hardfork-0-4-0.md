@@ -22,12 +22,12 @@ The result of the operation was to transfer the full [VESTING](/glossary/vests.m
 
 **Roles:** active owner
 **Parameters:** reporter first_block second_block
-**Note:** Proof-Of-Work was completely disabled in [HF17](/releases(/hardfork-0-17-0.md)
+**Note:** Proof-Of-Work was completely disabled in [HF17](/platform/releases(/hardfork-0-17-0.md)
 
 ## Context of HF4
 
 This was in the very early days Steem were there were only a few people who could access a user interface of the network. The Steemit Inc team, who was mainly in charge of developing the software, iterated quickly through a series of hardfork to make it functional as a decentralized content management system
 
 ## Hardfork 0.4.0 Information
-**Date:** May 3, 2016 (four days after [HF4](/releases/hardfork-0-4-0.md))
+**Date:** May 3, 2016 (four days after [HF4](/platform/releases/hardfork-0-4-0.md))
 **Official Github Release**: [0.4.0 Release](https://github.com/steemit/steem/releases/tag/v0.4.0)

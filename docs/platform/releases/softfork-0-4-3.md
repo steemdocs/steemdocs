@@ -5,7 +5,7 @@ description: General documentation and information the 0.4.3 release.
 
 # Softfork 0.4.3 Release
 
-This is the third [softfork](/glossary/softfork.md) on the [Steem blockchain](/glossary/steem-blockchain.md) as well as the third softfork of HF4. This release fixes unintentional bugs caused by the [0.4.2](/releases/softfork-0-4-2.md) release that prevented the [cli_wallet](/glossary/cli-wallet.md) from communicating with steemd unless all plugins were enabled. . It was an optional upgrade for users of [0.4.0](/releases/harfork-0-4-0.md).
+This is the third [softfork](/glossary/softfork.md) on the [Steem blockchain](/glossary/steem-blockchain.md) as well as the third softfork of HF4. This release fixes unintentional bugs caused by the [0.4.2](/platform/releases/softfork-0-4-2.md) release that prevented the CLI wallet from communicating with steemd unless all plugins were enabled. . It was an optional upgrade for users of [0.4.0](/platform/releases/hardfork-0-4-0.md).
 
 ## Features
 

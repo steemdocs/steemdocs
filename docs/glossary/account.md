@@ -4,7 +4,7 @@ description: On the Steem blockchain, each user has at least one account that ca
 ---
 # Account
 
-On the [Steem blockchain](/glossary/steem-blockchain.md), each user has at least one **account** that can be used to interact with the [blockchain](/glossary/blockchain.md). Each account has an address that is human readable (aka @username). Once an **account** is registered on the blockchain, all [transactions](/glossary/transaction.md)([upvotes](/glossary/upvoting.md), [posts](/glossary/posting.md), [comments](/glossary/commenting.md), [transfers](/glossary/transfer.md)) can be audited through a block explorer such as [steemd](/glossary/steemd.md).
+On the [Steem blockchain](/glossary/steem-blockchain.md), each user has at least one **account** that can be used to interact with the [blockchain](/glossary/blockchain.md). Each account has an address that is human readable (aka @username). Once an **account** is registered on the blockchain, all [transactions](/glossary/transaction.md)([upvotes](/glossary/voting.md), [posts](/glossary/posting.md), comments, [transfers](/glossary/transfer.md)) can be audited through a block explorer such as [steemd](/glossary/steemd.md).
 
 Each **account** has 4 sets of [public](/glossary/public-key.md) and [private](/glossary/private-key.md) keys:
 

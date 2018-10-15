@@ -1,6 +1,6 @@
 ---
 title: Resteem
-description: "Resteeming" is the term used on the Steem blockchain to share the content of an author to one's followers. When a user resteem an author's article, it helps increase the visibility of the post.
+description: Resteeming is the term used on the Steem blockchain to share the content of an author to one's followers. When a user resteem an author's article, it helps increase the visibility of the post.
 ---
 # Resteem
 

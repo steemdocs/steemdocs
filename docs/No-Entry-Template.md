@@ -1,7 +1,7 @@
 ---
 layout: NoEntry
-Title: Enter Term Here (only the term here please)
-Description: Enter Description Here (300 char maximum)
+title: Enter Term Here (only the term here please)
+description: Enter Description Here (300 char maximum)
 ---
 # Enter Term Here
 

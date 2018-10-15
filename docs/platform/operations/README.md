@@ -2,7 +2,7 @@
 
 When broadcasting, callers use a tuple.
 
-1. Type: A string. The [`operation`](/platform/primitive/structs/operation.md)'s name.
+1. Type: A string. The [`operation`](/platform/primitives/structs/operation.md)'s name.
 2. Parameters: An object containing the values for each of this operation's 
 required parameter.
 

@@ -15,5 +15,5 @@ This is the third [hardfork](/glossary/hardfork.md) of the [Steem blockchain](/g
 This was in the very early days Steem were there were only a few people who could access a user interface of the network. The Steemit Inc team, who was mainly in charge of developing the software, iterated quickly through a series of hardfork to make it functional as a decentralized content management system.
 
 ## Hardfork 0.3.0 Information
-**Date:** Apr 26, 2016 (one day after [HF2](/releases/hardfork-0-2-0.md))
+**Date:** Apr 26, 2016 (one day after [HF2](/platform/releases/hardfork-0-2-0.md))
 **Official Github Release**: [0.3.0 Release](https://github.com/steemit/steem/releases/tag/v0.3.0)
