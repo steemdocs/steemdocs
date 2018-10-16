@@ -20,6 +20,6 @@ An `authority` is a struct containing the following three fields:
 }
 ```
 
----
+## References
 
 - [include/steem/protocol/authority.hpp](https://github.com/steemit/steem/blob/master/libraries/protocol/include/steem/protocol/authority.hpp)
