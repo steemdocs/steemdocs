@@ -4,8 +4,8 @@
 An `authority` is a struct containing the following three fields:
 
 1. `weight_threshold`: Unsigned 32-bit integer. Default value is `0`.
-2. `account_auths`: Flat map of [/platform/primitives/types/account_name.md](`account_name_type`) and [/platform/primitives/types/weight.md](`weight_type`).
-3. `key_auths`: Flat map of [/platform/primitives/types/public_key.md](public_key_type) and [/platform/primitives/types/weight.md](`weight_type`)
+2. `account_auths`: Flat map of [`account_name_type`](/platform/primitives/types/account_name.md) and [`weight_type`](/platform/primitives/types/weight.md).
+3. `key_auths`: Flat map of [`public_key_type`](/platform/primitives/types/public_key.md) and [`weight_type`](/platform/primitives/types/weight.md)
 
 ```json
 {
