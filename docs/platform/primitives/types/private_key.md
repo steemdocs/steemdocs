@@ -1,4 +1,4 @@
-# Public Key (`public_key_type`)
+# Private Key (`private_key_type`)
 
 ## Related
 

@@ -1,2 +1,2 @@
-# `extension_type`
+# Extension (`extension_type`)
 

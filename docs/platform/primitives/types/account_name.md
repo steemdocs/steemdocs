@@ -1,4 +1,4 @@
-# `account_name_type`
+# Account Name (`account_name_type`)
 
 A valid account name consists of a dot-separated sequence of one or more labels consisting of the following rules:
  

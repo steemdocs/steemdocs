@@ -1,7 +1,6 @@
 var path = require('path')
 
 module.exports = {
-  palette: path.resolve(__dirname, 'palette.styl'),
   locales: {
     '/': {
       lang: 'en-CA',
@@ -45,12 +44,12 @@ module.exports = {
     }
   },
   plugins: {
-    '@vuepress/i18n-ui': true,
-    '@vuepress/back-to-top': true,
-    '@vuepress/pwa': {
-      serviceWorker: true,
-      updatePopup: true
-    },
-    '@vuepress/plugin-medium-zoom': true
+    // '@vuepress/i18n-ui': true,
+    // '@vuepress/back-to-top': true,
+    // '@vuepress/pwa': {
+    //   serviceWorker: true,
+    //   updatePopup: true
+    // },
+    // '@vuepress/plugin-medium-zoom': true
   }
 }
