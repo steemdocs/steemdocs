@@ -1,6 +1,7 @@
 var path = require('path')
 
 module.exports = {
+  ga: 'UA-127946194-1',
   locales: {
     '/': {
       lang: 'en-CA',
@@ -43,13 +44,5 @@ module.exports = {
       }
     }
   },
-  plugins: {
-    // '@vuepress/i18n-ui': true,
-    // '@vuepress/back-to-top': true,
-    // '@vuepress/pwa': {
-    //   serviceWorker: true,
-    //   updatePopup: true
-    // },
-    // '@vuepress/plugin-medium-zoom': true
-  }
+  plugins: ['@vuepress/google-analytics']
 }
