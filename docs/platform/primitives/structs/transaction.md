@@ -1,4 +1,4 @@
-# `transaction`
+# Transaction (`transaction`)
 
 Struct containing the following fields:
 

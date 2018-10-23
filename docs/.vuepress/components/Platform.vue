@@ -1,16 +1,33 @@
 <template>
-  <section>
-    <article v-for="section in sections">
-      <h2>{{ section.dir }}</h2>
-      <ul>
+  <div>
+
+    <section v-for="section in sections">
+      <h2>{{ section.name }}</h2>
+
+      <ul v-if="!section.subsections">
         <li v-for="page in section.pages">
           <router-link :to="page.path">
             {{ page.title }}
           </router-link>
         </li>
       </ul>
-    </article>
-  </section>
+
+      <div v-if="section.subsections">
+        <article v-for="subsection in section.subsections">
+          <h4>{{ section.name }}</h4>
+
+          <ul>
+            <li v-for="page in subsection.pages">
+              <router-link :to="page.path">
+                {{ page.title }}
+              </router-link>
+            </li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+  </div>
 </template>
 
 <style scoped>
@@ -20,12 +37,18 @@ ul {
 </style>
 
 <script>
-const subdirectories = [
-  'Properties',
-  'Primitives',
-  'Methods',
-  'Operations',
-  'Plugins'
+const tree = [
+  { name: 'Properties' },
+  { name: 'Primitives', subsections: [
+    { name: 'Types' },
+    { name: 'Structs' }
+  ] },
+  { name: 'Methods' },
+  { name: 'Operations' },
+  { name: 'Plugins' },
+  { name: 'Protocol', subsections: [
+    { name: 'Crypto' }
+  ]}
 ]
 
 export default {
@@ -34,9 +57,15 @@ export default {
   },
   computed: {
     sections () {
-      return subdirectories.map(dir => ({
-        dir: dir,
-        pages: this.pages.filter(this.inDirectory(dir.toLowerCase()))
+      return tree.map(section => ({
+        name: section.name,
+        subsections: section.subsections ? section.subsections.map(subsection => ({
+          name: subsection.name,
+          pages: this.pages.filter(this.inDirectory(subsection.name.toLowerCase()))
+        })) : null,
+        pages: section.subsections 
+          ? null 
+          : this.pages.filter(this.inDirectory(section.name.toLowerCase()))
       }))
     }
   },

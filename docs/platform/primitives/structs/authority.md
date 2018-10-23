@@ -1,5 +1,4 @@
-
-# `authority`
+# Authority (`authority`)
 
 An `authority` is a struct containing the following three fields:
 
