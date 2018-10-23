@@ -14,7 +14,7 @@
 
       <div v-if="section.subsections">
         <article v-for="subsection in section.subsections">
-          <h4>{{ section.name }}</h4>
+          <h4>{{ subsection.name }}</h4>
 
           <ul>
             <li v-for="page in subsection.pages">
