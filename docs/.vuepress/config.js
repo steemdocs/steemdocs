@@ -45,13 +45,5 @@ module.exports = {
       }
     }
   },
-  plugins: {
-    '@vuepress/i18n-ui': true,
-    '@vuepress/back-to-top': true,
-    '@vuepress/pwa': {
-      serviceWorker: true,
-      updatePopup: true
-    },
-    '@vuepress/plugin-medium-zoom': true
-  }
+  plugins: ['@vuepress/google-analytics']
 }
