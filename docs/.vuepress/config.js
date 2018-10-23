@@ -2,6 +2,7 @@ var path = require('path')
 
 module.exports = {
   palette: path.resolve(__dirname, 'palette.styl'),
+  ga: 'UA-127946194-1',
   locales: {
     '/': {
       lang: 'en-CA',
