@@ -5,8 +5,8 @@ module.exports = {
   locales: {
     '/': {
       lang: 'en-CA',
-      title: 'SDN',
-      description: 'Steem Documentation Network'
+      title: 'Steem Documentation Network | SDN',
+      description: 'The Steem Documentation Network (SDN) is a development documentation website for all projects related to the Steem Blockchain'
     }
   },
   themeConfig: {
