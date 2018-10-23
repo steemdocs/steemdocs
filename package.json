@@ -24,6 +24,6 @@
   "homepage": "https://github.com/kareniel/steem-docs#readme",
   "devDependencies": {
     "vuepress": "1.0.0-alpha.13",
-    "@vuepress/plugin-google-analytics": "1.0.0-alpha.13",
+    "@vuepress/plugin-google-analytics": "1.0.0-alpha.13"
   }
 }
