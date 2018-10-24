@@ -8,4 +8,4 @@ The RC Plugin defines blockchain resources and limits medium and long-term use t
 
 **Learn more**: 
 1- [HF20 Release 0.20.2](https://github.com/steemit/steem/releases/tag/v0.20.2)
-2- [Steem Basics: Resource Credit System for Beginners])https://steemit.com/steem/@steemitblog/steem-basics-rc-system-for-beginners)
+2- [Steem Basics: Resource Credit System for Beginners](https://steemit.com/steem/@steemitblog/steem-basics-rc-system-for-beginners)
