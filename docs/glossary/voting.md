@@ -6,14 +6,14 @@ description: Core to the Steem blockchain logic is the act of voting. There are 
 
 Core to the [Steem blockchain](/glossary/steem-blockchain.md) logic is the action of **voting**. There are 2 types of votes on the network:
 
-- Vote for [witnesses](/glossary/witness.md) to be [block](/glossary/block.md) validators
+- Vote for [witnesses](/glossary/witness.md) to be [block](/glossary/block.md) producers / validators
 - Vote for content
 
-The fundamental unit of account on the Steem platform is [STEEM](/glossary/steem.md), a cryptocurrency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by the amount of [vested tokens](/glossary/steem-power.md) in their account, have the most influence over how contributions are scored and which witnesses becomes approved by the community (the top 21 witnesses).
+The fundamental unit of account on the Steem platform is [STEEM](/glossary/steem.md), a cryptocurrency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have the higest [STEEM Power](/glossary/steem-power.md) in their account, have the most influence over how contributions are scored and which witnesses becomes approved by the community.
 
 ## Voting Token Rewards
 
-Token rewards are distributed by the amount of [VESTS](/glossary/vests.md) backing the votes on a given article. How much is distributed is dictated by the token's [reward curve](/glossary/reward-curve.md), [reward pool](/glossary/reward-pool.md) and how many people are competing for it as well as each users [MANA](/glossary/mana.md). 
+Token rewards are distributed by the amount of [rshares](/glossary/reward-shares.md) backing a given article. Authors are given the option to receive rewards in STEEM Power or split the reward between STEEM Power and STEEM Dollar (50% each). How much is distributed is dictated by the token's [reward curve](/glossary/reward-curve.md), [reward pool](/glossary/reward-pool.md), [price feed](/glossary/steem-price-feed.md) and how many people are competing for it.
 
 ## Upvotes & Downvotes
 
