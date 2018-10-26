@@ -9,7 +9,7 @@ Core to the [Steem blockchain](/glossary/steem-blockchain.md) logic is the actio
 - Vote for [witnesses](/glossary/witness.md) to be [block](/glossary/block.md) producers / validators
 - Vote for content
 
-The fundamental unit of account on the Steem platform is [STEEM](/glossary/steem.md), a cryptocurrency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have the higest [STEEM Power](/glossary/steem-power.md) in their account, have the most influence over how contributions are scored and which witnesses becomes approved by the community.
+The fundamental unit of account on the Steem platform is [STEEM](/glossary/steem.md), a cryptocurrency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have the highest [STEEM Power](/glossary/steem-power.md) in their account, have the most influence over how contributions are scored and which witnesses becomes approved by the community.
 
 ## Voting Token Rewards
 
