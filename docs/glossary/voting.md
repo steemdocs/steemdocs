@@ -13,7 +13,7 @@ The fundamental unit of account on the Steem platform is [STEEM](/glossary/steem
 
 ## Voting Token Rewards
 
-Token rewards are distributed by the amount of [rshares](/glossary/reward-shares.md) backing a given article. Authors are given the option to receive rewards in STEEM Power or split the reward between STEEM Power and STEEM Dollar (50% each). How much is distributed is dictated by the token's [reward curve](/glossary/reward-curve.md), [reward pool](/glossary/reward-pool.md), [price feed](/glossary/steem-price-feed.md) and how many people are competing for it.
+Token rewards are distributed by the amount of [rshares](/glossary/reward-shares.md) backing a given article. Authors are given the option to receive rewards in STEEM Power or split the reward between STEEM Power and STEEM Dollar (50% each). How much is distributed is dictated by the token's [reward curve](/glossary/reward-curve.md), [reward pool](/glossary/reward-pool.md), [price feed](/glossary/price-feed.md) and how many people are competing for it.
 
 ## Upvotes & Downvotes
 
