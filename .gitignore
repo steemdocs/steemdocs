@@ -64,3 +64,4 @@ typings/
 
 dist
 docs/.vuepress/dist
+docs/.vuepress/public/sitemap.xml
