@@ -8,7 +8,7 @@
     "start": "vuepress dev docs",
     "build": "vuepress build docs",
     "unit": "tape tests/**/*.js",
-    "test": "npm run build & npm run unit"
+    "test": "npm run build && npm run unit"
   },
   "repository": {
     "type": "git",
