@@ -7,7 +7,6 @@
   "scripts": {
     "start": "vuepress dev docs",
     "build": "vuepress build docs",
-    "postbuild": "node scripts/sitemap-generator.js",
     "test": "npm run build"
   },
   "repository": {
@@ -25,8 +24,7 @@
   "homepage": "https://github.com/kareniel/steem-docs#readme",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.16",
-    "esm": "3.0.84",
-    "sitemap": "2.1.0",
-    "vuepress": "^1.0.0-alpha.16"
+    "vuepress": "^1.0.0-alpha.16",
+    "vuepress-plugin-sitemap": "1.0.0"
   }
 }

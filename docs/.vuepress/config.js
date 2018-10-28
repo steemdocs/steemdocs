@@ -44,5 +44,10 @@ module.exports = {
       }
     }
   },
-  plugins: ['@vuepress/google-analytics']
+  plugins: [
+    '@vuepress/google-analytics',
+    ['sitemap', {
+      hostname: 'https://steemdocs.net'
+    }]
+  ]
 }
