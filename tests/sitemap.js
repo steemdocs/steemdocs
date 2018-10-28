@@ -12,6 +12,16 @@ tape('saves URL to home page', function (assert) {
     assert.end()
 })
 
+
+tape('saves URL to platform/primitives/structs/authority.html page', function (assert) {
+    const pages = getPagesBySitemap(getSitemap())
+
+    const authorityPage = pages.find(page => page.url === 'https://steemdocs.net/platform/primitives/structs/authority.html')
+
+    assert.ok(authorityPage, 'authority page is defined')
+    assert.end()
+})
+
 function getPagesBySitemap(sitemap) {
     const pages = sitemap.elements[0].elements.map(entry => {
         const [url, lastmod] = entry.elements
