@@ -7,7 +7,8 @@
   "scripts": {
     "start": "vuepress dev docs",
     "build": "vuepress build docs",
-    "test": "npm run build"
+    "unit": "tape tests/**/*.js",
+    "test": "npm run build && npm run unit"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,9 @@
   "homepage": "https://github.com/kareniel/steem-docs#readme",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.16",
-    "vuepress": "^1.0.0-alpha.16"
+    "tape": "4.9.1",
+    "vuepress": "^1.0.0-alpha.16",
+    "vuepress-plugin-sitemap": "1.0.0",
+    "xml-js": "1.6.8"
   }
 }
