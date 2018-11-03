@@ -22,6 +22,16 @@ test('saves URL to `authority` page', function (assert) {
   assert.end()
 })
 
+test('does not save pages located out of "/docs" directory', function (assert) {
+  const url = 'https://steemdocs.net/GLOSSARY_CONTRIBUTING.html'
+  const pages = getPagesBySitemap(getSitemap())
+
+  const glossaryContributingPage = pages.find(page => page.url === url)
+
+  assert.notOk(glossaryContributingPage, 'Glossary Contributing page is NOT defined')
+  assert.end()
+})
+
 function getPagesBySitemap (sitemap) {
   const pages = sitemap.elements[0].elements.map(entry => {
     const [url, lastmod] = entry.elements
